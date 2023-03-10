@@ -1,0 +1,17 @@
+body{
+    background: darkslategrey;
+}
+
+#main-canvas{
+    background: white;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+#line-create-btn {
+    padding: 5px;
+    margin: 10px;
+    background: beige;
+    border: 2px solid black;
+    border-radius: 10%;
+}
